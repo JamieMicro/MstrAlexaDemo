@@ -1,1 +1,1 @@
-# MstrAlexaDemo
+# MicroStrategy Alexa Skill Demo
