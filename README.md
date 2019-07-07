@@ -1,1 +1,1 @@
-# MicroStrategy Alexa Skill Demo
+# MicroStrategy Alexa Skill Demo Files
